@@ -5,7 +5,7 @@ Honors CS + Business at Northeastern ('29). SWE intern at SpecForge Pro and co-f
 ## What I'm working on
 
 - [RydeRobin](https://apps.apple.com/us/app/ryderobin/id6770114659): campus ride sharing app (React Native, ASP.NET Core, Stripe Connect), live on the App Store
-- SpecForge Pro: multi-tenant MCP server that gives AI editors access to customer specs, plus cost controls and security hardening
+- [SpecForge Pro](https://app.specforge.pro/): multi-tenant MCP server that gives AI editors access to customer specs, plus cost controls and security hardening
 
 ## Projects
 
