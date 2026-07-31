@@ -1,6 +1,6 @@
 # Hi, I'm Shreyas
 
-Honors CS at Northeastern ('29). SWE intern at SpecForge and co-founder of RydeRobin.
+Honors CS at Northeastern ('29). SWE intern at SpecForge Pro and co-founder of RydeRobin.
 
 ## What I'm working on
 
