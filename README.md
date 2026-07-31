@@ -1,6 +1,6 @@
 # Hi, I'm Shreyas 👋
 
-CS + Business Administration @ **Northeastern University** (Honors, '29) · SWE Intern @ **SpecForge** · Co-founder @ **RydeRobin**
+Honors CS @ **Northeastern University** ('29) · SWE Intern @ **SpecForge** · Co-founder @ **RydeRobin**
 
 I build AI agent infrastructure and full-stack products — multi-tenant MCP servers, agent memory systems, and a campus ride-sharing app that's live on the App Store.
 
@@ -21,4 +21,4 @@ I build AI agent infrastructure and full-stack products — multi-tenant MCP ser
 
 ## Elsewhere
 
-📄 4 peer-reviewed papers (IEEE, ASME IMECE) · [LinkedIn](https://www.linkedin.com/in/shreyas-ravada-49aa30315/) · ravada.s@northeastern.edu
+📄 4 peer-reviewed papers (IEEE, ASME IMECE) · [LinkedIn](https://www.linkedin.com/in/shreyasravada/) · ravada.s@northeastern.edu
